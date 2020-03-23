@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e17b6b66-f9e2-4977-845b-ad6e5bc8fd1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redux/postsReducers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/rootReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/sagas.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/sagas.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584949156910</updated>
-      <workItem from="1584949158105" duration="19111000" />
+      <workItem from="1584949158105" duration="19313000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1584984531144</created>
@@ -103,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584985968475</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="finished">
+      <created>1584989162588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584989162588</updated>
+    </task>
+    <task id="LOCAL-00010" summary="finished">
+      <created>1584989224291</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584989224291</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,10 +137,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="800" y="157" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1584952771867" />
-    <state x="457" y="23" key="CommitChangelistDialog2" timestamp="1584989162454">
+    <state x="457" y="23" key="CommitChangelistDialog2" timestamp="1584989224155">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="457" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1584989162454" />
+    <state x="457" y="23" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1584989224155" />
     <state x="748" y="304" key="Github.ShareDialog" timestamp="1584984197660">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -137,10 +150,10 @@
     </state>
     <state x="443" y="98" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1584983896391" />
     <state x="270" y="46" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1584983199063" />
-    <state x="369" y="147" key="Vcs.Push.Dialog.v2" timestamp="1584989165814">
+    <state x="369" y="147" key="Vcs.Push.Dialog.v2" timestamp="1584989227825">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="369" y="147" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1584989165814" />
+    <state x="369" y="147" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1584989227825" />
     <state x="369" y="147" key="Vcs.Push.Dialog.v2/0.23.1440.798@0.23.1440.798" timestamp="1584983284992" />
     <state x="635" y="275" key="git4idea.rebase.GitRebaseDialog" timestamp="1584983945183">
       <screen x="0" y="23" width="1440" height="797" />
