@@ -4,7 +4,7 @@ import Post from "./Post";
 
 const Posts = ({syncPosts}) => {
     if (!syncPosts.length) {
-        return <p className='text-center'>Постов пока нету</p>
+        return <p className=''>Постов пока нету</p>
     }
     return syncPosts.map( post => <Post post={post} key={post.id} />)
 
